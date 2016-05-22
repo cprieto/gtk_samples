@@ -1,3 +1,8 @@
+# Ok, time to ignore executables in *Nix
+*
+!/**/
+!*.*
+
 # Object files
 *.o
 *.ko
